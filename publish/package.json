@@ -1,0 +1,8 @@
+{
+  "name": "@spk/rgba-to-bmp",
+  "version": "1.0.1",
+  "description": "it is a nodejs addon can help transform canvas imagedata (rgba) buffer to bmp buffer",
+  "main": "index.js",
+  "author": "leo@speakin",
+  "license": "MIT"
+}
